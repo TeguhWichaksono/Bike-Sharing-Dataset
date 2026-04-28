@@ -4,18 +4,6 @@ Dashboard interaktif untuk menganalisis data peminjaman sepeda tahun 2011–2012
 
 ---
 
-## 📁 Struktur Proyek
-
-```
-submission/
-├── dashboard/
-│   ├── dashboard.py
-│   └── main_data.csv
-├── notebook.ipynb
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 ## ⚙️ Setup Environment
